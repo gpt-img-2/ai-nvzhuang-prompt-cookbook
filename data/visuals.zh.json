@@ -1,0 +1,1260 @@
+{
+  "name": "AI 女装提示词库 visuals",
+  "generatedAt": "2026-06-07T10:11:24.194Z",
+  "total": 179,
+  "visuals": [
+    {
+      "id": "ai-womens-fashion-001",
+      "slug": "ai-womens-fashion-001",
+      "title": "韩系温柔 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-001?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-001/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-002",
+      "slug": "ai-womens-fashion-002",
+      "title": "夏日海边温柔风 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-002?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-002/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-003",
+      "slug": "ai-womens-fashion-003",
+      "title": "秋日温柔 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-003?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-003/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-004",
+      "slug": "ai-womens-fashion-004",
+      "title": "复古胶片风 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-004?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-004/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-005",
+      "slug": "ai-womens-fashion-005",
+      "title": "居家自拍大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-005?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-005/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-006",
+      "slug": "ai-womens-fashion-006",
+      "title": "韩系闺蜜风 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-006?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-006/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-007",
+      "slug": "ai-womens-fashion-007",
+      "title": "韩系温柔 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-007?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-007/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-008",
+      "slug": "ai-womens-fashion-008",
+      "title": "画廊时尚大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-008?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-008/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-009",
+      "slug": "ai-womens-fashion-009",
+      "title": "韩系街拍风 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-009?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-009/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-010",
+      "slug": "ai-womens-fashion-010",
+      "title": "都市夜景时尚大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-010?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-010/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-011",
+      "slug": "ai-womens-fashion-011",
+      "title": "法式优雅钢琴写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-011?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-011/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-012",
+      "slug": "ai-womens-fashion-012",
+      "title": "韩系街拍风 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-012?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-012/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-013",
+      "slug": "ai-womens-fashion-013",
+      "title": "夏日清新写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-013?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-013/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-014",
+      "slug": "ai-womens-fashion-014",
+      "title": "通勤干练 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-014?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-014/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-015",
+      "slug": "ai-womens-fashion-015",
+      "title": "甜美温柔 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-015?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-015/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-016",
+      "slug": "ai-womens-fashion-016",
+      "title": "韩系温柔 AI 女装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-016?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-016/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-017",
+      "slug": "ai-womens-fashion-017",
+      "title": "甜酷辣妹 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-017?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-017/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-018",
+      "slug": "ai-womens-fashion-018",
+      "title": "清冷高级 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-018?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-018/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-019",
+      "slug": "ai-womens-fashion-019",
+      "title": "现代居家 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-019?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-019/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-020",
+      "slug": "ai-womens-fashion-020",
+      "title": "春日绿意街道 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-020?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-020/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-021",
+      "slug": "ai-womens-fashion-021",
+      "title": "热带露台度假 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-021?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-021/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-022",
+      "slug": "ai-womens-fashion-022",
+      "title": "法式慵懒 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-022?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-022/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-023",
+      "slug": "ai-womens-fashion-023",
+      "title": "甜酷辣妹 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-023?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-023/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-024",
+      "slug": "ai-womens-fashion-024",
+      "title": "法式慵懒 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-024?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-024/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-025",
+      "slug": "ai-womens-fashion-025",
+      "title": "公园氛围感 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-025?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-025/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-026",
+      "slug": "ai-womens-fashion-026",
+      "title": "海边度假 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-026?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-026/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-027",
+      "slug": "ai-womens-fashion-027",
+      "title": "室内日常穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-027?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-027/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-028",
+      "slug": "ai-womens-fashion-028",
+      "title": "湖景度假少女 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-028?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-028/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-029",
+      "slug": "ai-womens-fashion-029",
+      "title": "法式慵懒 AI 女装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-029?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-029/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-030",
+      "slug": "ai-womens-fashion-030",
+      "title": "法式慵懒 AI 女装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-030?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-030/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-031",
+      "slug": "ai-womens-fashion-031",
+      "title": "春日清新 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-031?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-031/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-032",
+      "slug": "ai-womens-fashion-032",
+      "title": "法式慵懒 AI 女装提示词 5",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-032?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-032/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-033",
+      "slug": "ai-womens-fashion-033",
+      "title": "展厅时尚 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-033?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-033/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-034",
+      "slug": "ai-womens-fashion-034",
+      "title": "温馨自拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-034?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-034/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-035",
+      "slug": "ai-womens-fashion-035",
+      "title": "户外少女 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-035?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-035/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-036",
+      "slug": "ai-womens-fashion-036",
+      "title": "海边自拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-036?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-036/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-037",
+      "slug": "ai-womens-fashion-037",
+      "title": "服装展示 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-037?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-037/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-038",
+      "slug": "ai-womens-fashion-038",
+      "title": "OOTD 摆拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-038?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-038/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-039",
+      "slug": "ai-womens-fashion-039",
+      "title": "户外少女 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-039?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-039/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-040",
+      "slug": "ai-womens-fashion-040",
+      "title": "展厅写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-040?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-040/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-041",
+      "slug": "ai-womens-fashion-041",
+      "title": "法式慵懒 AI 女装提示词 6",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-041?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-041/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-042",
+      "slug": "ai-womens-fashion-042",
+      "title": "冬日居家自拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-042?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-042/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-043",
+      "slug": "ai-womens-fashion-043",
+      "title": "酒店走廊法式慵懒 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-043?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-043/0.jpeg"
+    },
+    {
+      "id": "ai-womens-fashion-044",
+      "slug": "ai-womens-fashion-044",
+      "title": "服装店内自拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-044?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-044/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-045",
+      "slug": "ai-womens-fashion-045",
+      "title": "室内自拍休闲居家 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-045?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-045/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-046",
+      "slug": "ai-womens-fashion-046",
+      "title": "镜前穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-046?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-046/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-047",
+      "slug": "ai-womens-fashion-047",
+      "title": "临海旅拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-047?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-047/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-048",
+      "slug": "ai-womens-fashion-048",
+      "title": "都市街景甜酷辣妹 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-048?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-048/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-049",
+      "slug": "ai-womens-fashion-049",
+      "title": "艺术展厅 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-049?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-049/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-050",
+      "slug": "ai-womens-fashion-050",
+      "title": "复古森系户外 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-050?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-050/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-051",
+      "slug": "ai-womens-fashion-051",
+      "title": "夜晚户外氛围感 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-051?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-051/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-052",
+      "slug": "ai-womens-fashion-052",
+      "title": "ins 风文艺人像 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-052?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-052/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-053",
+      "slug": "ai-womens-fashion-053",
+      "title": "意式轻奢节日 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-053?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-053/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-054",
+      "slug": "ai-womens-fashion-054",
+      "title": "红墙蔷薇氛围感 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-054?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-054/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-055",
+      "slug": "ai-womens-fashion-055",
+      "title": "冬日街道雪景 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-055?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-055/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-056",
+      "slug": "ai-womens-fashion-056",
+      "title": "港风画室雪景 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-056?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-056/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-057",
+      "slug": "ai-womens-fashion-057",
+      "title": "法式慵懒 AI 女装提示词 7",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-057?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-057/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-058",
+      "slug": "ai-womens-fashion-058",
+      "title": "衣柜里的服装展示图 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-058?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-058/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-059",
+      "slug": "ai-womens-fashion-059",
+      "title": "复古港风 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-059?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-059/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-060",
+      "slug": "ai-womens-fashion-060",
+      "title": "冬日节日氛围感 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-060?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-060/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-061",
+      "slug": "ai-womens-fashion-061",
+      "title": "艺术展厅内的时尚写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-061?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-061/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-062",
+      "slug": "ai-womens-fashion-062",
+      "title": "复古港风 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-062?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-062/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-063",
+      "slug": "ai-womens-fashion-063",
+      "title": "春日清新 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-063?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-063/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-064",
+      "slug": "ai-womens-fashion-064",
+      "title": "休闲居家 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-064?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-064/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-065",
+      "slug": "ai-womens-fashion-065",
+      "title": "春日清新 AI 女装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-065?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-065/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-066",
+      "slug": "ai-womens-fashion-066",
+      "title": "店内穿搭 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-066?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-066/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-067",
+      "slug": "ai-womens-fashion-067",
+      "title": "店内穿搭 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-067?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-067/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-068",
+      "slug": "ai-womens-fashion-068",
+      "title": "店内穿搭 AI 女装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-068?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-068/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-069",
+      "slug": "ai-womens-fashion-069",
+      "title": "车内清冷高级 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-069?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-069/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-070",
+      "slug": "ai-womens-fashion-070",
+      "title": "复古港风 AI 女装提示词 3",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-070?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-070/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-071",
+      "slug": "ai-womens-fashion-071",
+      "title": "韩系温柔 AI 女装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-071?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-071/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-072",
+      "slug": "ai-womens-fashion-072",
+      "title": "辣妹工装风 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-072?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-072/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-073",
+      "slug": "ai-womens-fashion-073",
+      "title": "韩系温柔画廊 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-073?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-073/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-074",
+      "slug": "ai-womens-fashion-074",
+      "title": "通勤干练风女装 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-074?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-074/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-075",
+      "slug": "ai-womens-fashion-075",
+      "title": "冬日温馨氛围 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-075?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-075/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-076",
+      "slug": "ai-womens-fashion-076",
+      "title": "休闲居家 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-076?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-076/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-077",
+      "slug": "ai-womens-fashion-077",
+      "title": "复古港风 AI 女装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-077?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-077/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-078",
+      "slug": "ai-womens-fashion-078",
+      "title": "镜前自拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-078?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-078/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-079",
+      "slug": "ai-womens-fashion-079",
+      "title": "春日清新 AI 女装提示词 4",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-079?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-079/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-080",
+      "slug": "ai-womens-fashion-080",
+      "title": "工业风工作室里的甜美写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-080?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-080/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-081",
+      "slug": "ai-womens-fashion-081",
+      "title": "游艇上的清新度假写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-081?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-081/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-082",
+      "slug": "ai-womens-fashion-082",
+      "title": "简约室内的氛围感 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-082?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-082/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-083",
+      "slug": "ai-womens-fashion-083",
+      "title": "新中式家居里的知性写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-083?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-083/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-084",
+      "slug": "ai-womens-fashion-084",
+      "title": "春日草地的日系胶片写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-084?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-084/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-085",
+      "slug": "ai-womens-fashion-085",
+      "title": "轻奢玄关里的自拍写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-085?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-085/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-086",
+      "slug": "ai-womens-fashion-086",
+      "title": "洱海边的少女写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-086?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-086/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-087",
+      "slug": "ai-womens-fashion-087",
+      "title": "居家甜妹写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-087?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-087/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-088",
+      "slug": "ai-womens-fashion-088",
+      "title": "咖啡店氛围感美女写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-088?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-088/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-089",
+      "slug": "ai-womens-fashion-089",
+      "title": "江南古巷胶片少女写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-089?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-089/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-090",
+      "slug": "ai-womens-fashion-090",
+      "title": "春日街道少女写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-090?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-090/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-091",
+      "slug": "ai-womens-fashion-091",
+      "title": "户外日常自拍写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-091?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-091/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-092",
+      "slug": "ai-womens-fashion-092",
+      "title": "夏日林荫道少女写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-092?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-092/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-093",
+      "slug": "ai-womens-fashion-093",
+      "title": "ccd 风格街头自拍写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-093?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-093/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-094",
+      "slug": "ai-womens-fashion-094",
+      "title": "优衣库店内自拍写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-094?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-094/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-095",
+      "slug": "ai-womens-fashion-095",
+      "title": "夏日草坡少女写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-095?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-095/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-096",
+      "slug": "ai-womens-fashion-096",
+      "title": "服装店内穿搭展示 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-096?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-096/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-097",
+      "slug": "ai-womens-fashion-097",
+      "title": "服装展示图片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-097?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-097/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-098",
+      "slug": "ai-womens-fashion-098",
+      "title": "竖版的室内人物图片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-098?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-098/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-099",
+      "slug": "ai-womens-fashion-099",
+      "title": "自拍风格通勤干练 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-099?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-099/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-100",
+      "slug": "ai-womens-fashion-100",
+      "title": "日系胶片风 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-100?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-100/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-101",
+      "slug": "ai-womens-fashion-101",
+      "title": "室内自拍风格 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-101?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-101/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-102",
+      "slug": "ai-womens-fashion-102",
+      "title": "客厅自拍写实 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-102?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-102/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-103",
+      "slug": "ai-womens-fashion-103",
+      "title": "韩系甜酷少女自拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-103?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-103/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-104",
+      "slug": "ai-womens-fashion-104",
+      "title": "韩系温柔风 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-104?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-104/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-105",
+      "slug": "ai-womens-fashion-105",
+      "title": "春日草原少女 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-105?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-105/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-106",
+      "slug": "ai-womens-fashion-106",
+      "title": "商场扶梯自拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-106?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-106/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-107",
+      "slug": "ai-womens-fashion-107",
+      "title": "温馨自拍穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-107?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-107/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-108",
+      "slug": "ai-womens-fashion-108",
+      "title": "家居自拍时尚 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-108?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-108/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-109",
+      "slug": "ai-womens-fashion-109",
+      "title": "圣诞氛围美女 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-109?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-109/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-110",
+      "slug": "ai-womens-fashion-110",
+      "title": "露台穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-110?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-110/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-111",
+      "slug": "ai-womens-fashion-111",
+      "title": "午后休闲少女 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-111?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-111/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-112",
+      "slug": "ai-womens-fashion-112",
+      "title": "居家试衣自拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-112?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-112/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-113",
+      "slug": "ai-womens-fashion-113",
+      "title": "花店外少女穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-113?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-113/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-114",
+      "slug": "ai-womens-fashion-114",
+      "title": "居家自拍写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-114?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-114/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-115",
+      "slug": "ai-womens-fashion-115",
+      "title": "服装店自拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-115?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-115/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-116",
+      "slug": "ai-womens-fashion-116",
+      "title": "落地窗自拍写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-116?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-116/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-117",
+      "slug": "ai-womens-fashion-117",
+      "title": "街边玻璃自拍纪实 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-117?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-117/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-118",
+      "slug": "ai-womens-fashion-118",
+      "title": "品牌展示空间自拍 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-118?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-118/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-119",
+      "slug": "ai-womens-fashion-119",
+      "title": "玻璃自拍纪实写真 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-119?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-119/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-120",
+      "slug": "ai-womens-fashion-120",
+      "title": "玻璃自拍纪实写真 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-120?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-120/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-121",
+      "slug": "ai-womens-fashion-121",
+      "title": "复古咖啡店门前写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-121?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-121/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-122",
+      "slug": "ai-womens-fashion-122",
+      "title": "艺术展厅穿搭写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-122?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-122/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-123",
+      "slug": "ai-womens-fashion-123",
+      "title": "春节烟花氛围感 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-123?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-123/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-124",
+      "slug": "ai-womens-fashion-124",
+      "title": "新年室内氛围感 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-124?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-124/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-125",
+      "slug": "ai-womens-fashion-125",
+      "title": "写实风格人像 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-125?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-125/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-126",
+      "slug": "ai-womens-fashion-126",
+      "title": "都市街拍人像 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-126?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-126/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-127",
+      "slug": "ai-womens-fashion-127",
+      "title": "时尚室内人像 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-127?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-127/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-128",
+      "slug": "ai-womens-fashion-128",
+      "title": "都市精英女性时尚大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-128?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-128/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-129",
+      "slug": "ai-womens-fashion-129",
+      "title": "东方复古旗袍美人写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-129?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-129/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-130",
+      "slug": "ai-womens-fashion-130",
+      "title": "复古波点裙美人写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-130?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-130/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-131",
+      "slug": "ai-womens-fashion-131",
+      "title": "职场干练女性时尚大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-131?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-131/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-132",
+      "slug": "ai-womens-fashion-132",
+      "title": "复古丝绒长裙美人 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-132?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-132/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-133",
+      "slug": "ai-womens-fashion-133",
+      "title": "复古少女梳妆写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-133?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-133/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-134",
+      "slug": "ai-womens-fashion-134",
+      "title": "现代工作室西装穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-134?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-134/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-135",
+      "slug": "ai-womens-fashion-135",
+      "title": "现代简约空间里的白裙穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-135?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-135/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-136",
+      "slug": "ai-womens-fashion-136",
+      "title": "现代卧室里的米白裙写真 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-136?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-136/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-137",
+      "slug": "ai-womens-fashion-137",
+      "title": "现代客厅里的黑西装穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-137?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-137/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-138",
+      "slug": "ai-womens-fashion-138",
+      "title": "复古街区里的民国旗袍大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-138?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-138/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-139",
+      "slug": "ai-womens-fashion-139",
+      "title": "文艺街区风 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-139?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-139/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-140",
+      "slug": "ai-womens-fashion-140",
+      "title": "都市职场穿搭街拍大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-140?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-140/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-141",
+      "slug": "ai-womens-fashion-141",
+      "title": "街头潮流穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-141?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-141/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-142",
+      "slug": "ai-womens-fashion-142",
+      "title": "古堡精致华丽穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-142?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-142/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-143",
+      "slug": "ai-womens-fashion-143",
+      "title": "古堡复古唯美穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-143?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-143/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-144",
+      "slug": "ai-womens-fashion-144",
+      "title": "未来感先锋潮流穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-144?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-144/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-145",
+      "slug": "ai-womens-fashion-145",
+      "title": "海边艺术建筑度假风穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-145?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-145/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-146",
+      "slug": "ai-womens-fashion-146",
+      "title": "温馨卧室睡衣穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-146?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-146/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-147",
+      "slug": "ai-womens-fashion-147",
+      "title": "客厅休闲穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-147?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-147/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-148",
+      "slug": "ai-womens-fashion-148",
+      "title": "复古咖啡馆穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-148?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-148/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-149",
+      "slug": "ai-womens-fashion-149",
+      "title": "时尚创意餐厅 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-149?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-149/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-150",
+      "slug": "ai-womens-fashion-150",
+      "title": "花艺工作室穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-150?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-150/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-151",
+      "slug": "ai-womens-fashion-151",
+      "title": "陶艺工作室复古穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-151?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-151/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-152",
+      "slug": "ai-womens-fashion-152",
+      "title": "手工皮具工作室复古穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-152?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-152/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-153",
+      "slug": "ai-womens-fashion-153",
+      "title": "传统集市国风穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-153?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-153/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-154",
+      "slug": "ai-womens-fashion-154",
+      "title": "艺术展会穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-154?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-154/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-155",
+      "slug": "ai-womens-fashion-155",
+      "title": "潮流集市穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-155?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-155/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-156",
+      "slug": "ai-womens-fashion-156",
+      "title": "复古汽车穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-156?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-156/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-157",
+      "slug": "ai-womens-fashion-157",
+      "title": "都市轻轨通勤穿搭 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-157?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-157/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-158",
+      "slug": "ai-womens-fashion-158",
+      "title": "复古火车穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-158?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-158/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-159",
+      "slug": "ai-womens-fashion-159",
+      "title": "城市天台优雅穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-159?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-159/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-160",
+      "slug": "ai-womens-fashion-160",
+      "title": "花园屋顶田园穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-160?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-160/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-161",
+      "slug": "ai-womens-fashion-161",
+      "title": "秋日街道穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-161?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-161/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-162",
+      "slug": "ai-womens-fashion-162",
+      "title": "甜美少女风卧室穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-162?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-162/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-163",
+      "slug": "ai-womens-fashion-163",
+      "title": "职场干练风穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-163?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-163/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-164",
+      "slug": "ai-womens-fashion-164",
+      "title": "欧式古堡复古穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-164?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-164/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-165",
+      "slug": "ai-womens-fashion-165",
+      "title": "户外运动场活力穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-165?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-165/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-166",
+      "slug": "ai-womens-fashion-166",
+      "title": "花海田园风穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-166?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-166/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-167",
+      "slug": "ai-womens-fashion-167",
+      "title": "都市潮流风穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-167?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-167/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-168",
+      "slug": "ai-womens-fashion-168",
+      "title": "咖啡馆优雅穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-168?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-168/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-169",
+      "slug": "ai-womens-fashion-169",
+      "title": "游乐场甜美穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-169?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-169/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-170",
+      "slug": "ai-womens-fashion-170",
+      "title": "海边自信穿搭大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-170?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-170/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-171",
+      "slug": "ai-womens-fashion-171",
+      "title": "老上海弄堂复古旗袍大片 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-171?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-171/0-v2.png"
+    },
+    {
+      "id": "ai-womens-fashion-172",
+      "slug": "ai-womens-fashion-172",
+      "title": "韩系居家氛围感对镜自拍人像 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-172?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-172/0.png"
+    },
+    {
+      "id": "ai-womens-fashion-173",
+      "slug": "ai-womens-fashion-173",
+      "title": "窗边沙发的韩系温柔居家自拍人像 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-173?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-173/0.png"
+    },
+    {
+      "id": "ai-womens-fashion-174",
+      "slug": "ai-womens-fashion-174",
+      "title": "韩系温柔居家自拍人像 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-174?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-174/0.png"
+    },
+    {
+      "id": "ai-womens-fashion-175",
+      "slug": "ai-womens-fashion-175",
+      "title": "沙发旁的韩系温柔居家自拍人像 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-175?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-175/0.png"
+    },
+    {
+      "id": "ai-womens-fashion-176",
+      "slug": "ai-womens-fashion-176",
+      "title": "原木架前的韩系温柔居家自拍人像 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-176?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-176/0.png"
+    },
+    {
+      "id": "ai-womens-fashion-177",
+      "slug": "ai-womens-fashion-177",
+      "title": "书桌旁的韩系温柔居家自拍人像 AI 女装提示词",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-177?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-177/0.png"
+    },
+    {
+      "id": "ai-womens-fashion-178",
+      "slug": "ai-womens-fashion-178",
+      "title": "女装店自拍 AI 女装提示词 1",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-178?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-178/0.png"
+    },
+    {
+      "id": "ai-womens-fashion-179",
+      "slug": "ai-womens-fashion-179",
+      "title": "女装店自拍 AI 女装提示词 2",
+      "sourceUrl": "https://gptimg2.art/zh/prompts/gpt-image-2/ai-womens-fashion-179?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear",
+      "image": "https://cdn.nano-banana-2-ai.com/uploads/prompt-library/gpt-image-2/media/ai-womens-fashion/ai-womens-fashion-179/0.png"
+    }
+  ]
+}
